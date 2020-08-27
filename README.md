@@ -1,3 +1,4 @@
 # kaggle-practice
 
-Hi I'm hojae
+https://www.kaggle.com/ash316/eda-to-prediction-dietanic
+
