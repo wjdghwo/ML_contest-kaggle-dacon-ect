@@ -1,4 +1,4 @@
 # kaggle-practice
 
-https://www.kaggle.com/ash316/eda-to-prediction-dietanic
+https://www.kaggle.com/ash316/eda-to-prediction-dietanic 
 
