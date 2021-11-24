@@ -12,3 +12,5 @@
 평가지표 : ROCAUC
 
 https://www.kaggle.com/c/home-credit-default-risk
+
+ps. 정밀도 및 재현율의 스코어 임계치를 조정하니 점수가 향상되었었습니다.
